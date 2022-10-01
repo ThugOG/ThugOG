@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on Nothing
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Cadence**
+
+- I guess Everyone must check out FLOWW
 
 - 📫 How to reach me **sahilgthakur1@gmail.com**
 
