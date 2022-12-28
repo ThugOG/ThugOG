@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Nothing
 
-- 🌱 I’m currently learning **Cadence**
+- 🌱 I’m currently learning **Solidity**
 
 - I guess Everyone must check out FLOWW
 
