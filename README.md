@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+![MasterHead](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 <h1 align="center">Hi 👋, I'm Sahil Thakur</h1>
 <h3 align="center">A passionate about exploring new things like blockchain, web-development, crypto</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- I guess Everyone must check out FLOWW
+- I guess everyone must check out RouterProtocol
 
 - 📫 How to reach me **sahilgthakur1@gmail.com**
 
