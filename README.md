@@ -7,7 +7,7 @@ Web3 Developer and Writer
 I have been in web3 space since 4 years and have a keen knowledge of tech and project.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [0xsahil.xyz](www.0xsahil.live)
+* 🖥️  See my portfolio at [0xsahil.live](www.0xsahil.live)
 * ✉️  You can contact me at [sahilgthakur1@gmail.com](mailto:sahilgthakur1@gmail.com)
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on DA Layer projects, Dapps
