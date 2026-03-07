@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=120&section=header"/>
 
-# 0xSahil · Sahil Thakur
+# kioLmao · Sahil Thakur
 ### Web3 Developer & Writer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=EF4444&center=true&vCenter=true&random=false&width=500&lines=4+Years+in+Web3;Rust+Learner+%F0%9F%A6%80;Smart+Contract+Developer;Open+to+Collaborate" alt="Typing SVG" />
@@ -26,6 +26,7 @@ alias:      kioLmao / ThugOG
 location:   India 🇮🇳
 experience: 4 years in Web3
 focus:      Smart Contracts · On-chain Systems
+building:   Trepa (prediction market infra)
 learning:   Rust 🦀
 open_to:    Web3 collaborations · Open source
 contact:    sahilgthakur1@gmail.com
@@ -39,7 +40,6 @@ portfolio:  https://0xsahil.live
 **Languages**
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -79,6 +79,7 @@ portfolio:  https://0xsahil.live
 
 <img src="https://streak-stats.demolab.com?user=ThugOG&theme=dark&hide_border=true&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&background=1c1917"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThugOG&theme=react-dark&color=ef4444&line=ef4444&point=ffffff&hide_border=true&area=true"/>
 
 </div>
 
