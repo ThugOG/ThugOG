@@ -22,7 +22,7 @@
 
 ```yaml
 name:       Sahil Thakur
-alias:      0xSahil / ThugOG
+alias:      kioLmao / ThugOG
 location:   India 🇮🇳
 experience: 4 years in Web3
 focus:      Smart Contracts · On-chain Systems
@@ -74,10 +74,10 @@ portfolio:  https://0xsahil.live
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ThugOG&show_icons=true&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThugOG&layout=compact&title_color=ef4444&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=6"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ThugOG&show_icons=true&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&cache_seconds=1800"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThugOG&layout=compact&title_color=ef4444&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=6&cache_seconds=1800"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ThugOG&theme=dark&hide_border=true&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&background=1c1917"/>
+<img src="https://streak-stats.demolab.com?user=ThugOG&theme=dark&hide_border=true&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&background=1c1917"/>
 
 
 </div>
