@@ -1,37 +1,124 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sahil Thakur
-====================================================================================================================================
+<div align="center">                                                                                   
+                  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=120&section=header"/>  
+                  
+  # 0xSahil · Sahil Thakur
+  ### Web3 Developer & Writer
 
-Web3 Developer and Writer
--------------------------
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color
+  =EF4444&center=true&vCenter=true&random=false&width=500&lines=4+Years+in+Web3;Rust+Learner+%F0%9F%A6%80
+  ;DA+Layer+%7C+DApp+Builder;Open+to+Collaborate)](https://git.io/typing-svg)
 
-I have been in web3 space since 4 years and have a keen knowledge of tech and project.
+  <p>
+    <a href="https://www.0xsahil.live"><img src="https://img.shields.io/badge/Portfolio-0xsahil.live-ef44
+  44?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1c1917"/></a>
+    <a href="https://www.github.com/ThugOG"><img src="https://img.shields.io/github/followers/ThugOG?logo
+  =github&style=for-the-badge&color=ef4444&labelColor=1c1917"/></a>
+    <a href="https://www.x.com/0x21Sahil"><img src="https://img.shields.io/twitter/follow/0x21Sahil?logo=
+  twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"/></a>
+    <img src="https://komarev.com/ghpvc/?username=ThugOG&style=for-the-badge&color=ef4444&labelColor=1c19
+  17&label=PROFILE+VIEWS"/>
+  </p>
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [0xsahil.live](https://www.0xsahil.live)
-* ✉️  You can contact me at [sahilgthakur1@gmail.com](mailto:sahilgthakur1@gmail.com)
-* 🧠  I'm learning Rust
-* 🤝  I'm open to collaborating on DA Layer projects, Dapps
-* ⚡  I am batman, but its between you and me
+  </div>
 
-<a href="https://www.github.com/ThugOG" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ThugOG?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.x.com/0x21Sahil" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/0x21Sahil?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
-/></a>
+  ---
 
-### Skills
+  ## ⚡ About Me
 
+  ```yaml
+  name:       Sahil Thakur
+  alias:      0xSahil / ThugOG
+  location:   India 🇮🇳
+  experience: 4 years in Web3
+  focus:      DA Layers · DApps · Smart Contracts
+  learning:   Rust 🦀
+  open_to:    DA Layer projects · DApp collaborations
+  contact:    sahilgthakur1@gmail.com
+  portfolio:  https://0xsahil.live
+  ` ``
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a><a href="https://www.sushi.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg" width="36" height="36" alt="Sushiswap" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://www.argent.xyz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/argent-colored.svg" width="36" height="36" alt="Argent" /></a><a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a><a href="https://www.nansen.ai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nansen-colored.svg" width="36" height="36" alt="Nansen" /></a><a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a><a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a><a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a><a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a><a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a><a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a><a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a><a href="https://near.academy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/near-colored.svg" width="36" height="36" alt="Near" /></a><a href="https://www.avax.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" /></a><a href="https://portal.arbitrum.one/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" alt="Arbitrum" /></a><a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://www.onflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flow-colored.svg" width="36" height="36" alt="Flow" /></a>
-</p>
+  ---
 
+  ## 🛠 Tech Stack
 
-### Socials
+  **Languages**
 
-<p align="left"> <a href="https://discord.com/users/nxthug" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ThugOG" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sahil-thakur-0xthug-610353268/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/0x21Sahil" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=whit
+  e)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColo
+  r=black)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-### Badges
+  **Frontend**
 
-<b>My GitHub Stats</b>
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColo
+  r=white)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-<a href="http://www.github.com/ThugOG"><img src="https://github-readme-stats.vercel.app/api?username=ThugOG&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="ThugOG's GitHub stats" /></a>
+  **Backend & DB**
+
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white
+  )
+  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+  **Web3**
+
+  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=whit
+  e)
+  ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+  ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+  ![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=wh
+  ite)
+  ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=w
+  hite)
+  ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+  ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
+  ![Arbitrum](https://img.shields.io/badge/Arbitrum-28A0F0?style=flat-square&logo=arbitrum&logoColor=whit
+  e)
+
+  ---
+
+  ## 📊 GitHub Stats
+
+  <div align="center">
+
+  <img height="180"
+  src="https://github-readme-stats.vercel.app/api?username=ThugOG&show_icons=true&count_private=true&titl
+  e_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThugOG&layout=com
+  pact&title_color=ef4444&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=6"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ThugOG&theme=dark&hide_border=true&ring
+  =ef4444&fire=ef4444&currStreakLabel=ef4444&background=1c1917"/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=ThugOG&theme=radical&no-frame=true&no-bg=t
+  rue&margin-w=4&row=1"/>
+
+  </div>
+
+  ---
+
+  ## 🤝 Connect
+
+  <div align="center">
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0xsahil.live-ef4444?style=for-the-badge&logo=verce
+  l&logoColor=white&labelColor=1c1917)](https://www.0xsahil.live)
+  [![Twitter](https://img.shields.io/badge/Twitter-@0x21Sahil-ef4444?style=for-the-badge&logo=twitter&log
+  oColor=white&labelColor=1c1917)](https://x.com/0x21Sahil)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil_Thakur-ef4444?style=for-the-badge&logo=linkedi
+  n&logoColor=white&labelColor=1c1917)](https://www.linkedin.com/in/sahil-thakur-0xthug-610353268/)
+  [![Discord](https://img.shields.io/badge/Discord-nxthug-ef4444?style=for-the-badge&logo=discord&logoCol
+  or=white&labelColor=1c1917)](https://discord.com/users/nxthug)
+  [![Email](https://img.shields.io/badge/Email-sahilgthakur1@gmail.com-ef4444?style=for-the-badge&logo=gm
+  ail&logoColor=white&labelColor=1c1917)](mailto:sahilgthakur1@gmail.com)
+
+  </div>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=80&section=footer"/>
