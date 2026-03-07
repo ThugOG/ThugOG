@@ -5,13 +5,13 @@
 # 0xSahil · Sahil Thakur
 ### Web3 Developer & Writer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=EF4444&center=true&vCenter=true&random=false&width=500&lines=4+Years+in+Web3;Rust+Learner+%F0%9F%A6%80;DA+Layer+%7C+DApp+Builder;Open+to+Collaborate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=EF4444&center=true&vCenter=true&random=false&width=500&lines=4+Years+in+Web3;Rust+Learner+%F0%9F%A6%80;Smart+Contract+Developer;Open+to+Collaborate" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://www.0xsahil.live"><img src="https://img.shields.io/badge/Portfolio-0xsahil.live-ef4444?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1c1917"/></a>
 <a href="https://www.github.com/ThugOG"><img src="https://img.shields.io/github/followers/ThugOG?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917"/></a>
-<a href="https://www.x.com/0x21Sahil"><img src="https://img.shields.io/twitter/follow/0x21Sahil?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"/></a>
+<a href="https://www.x.com/kioLmao"><img src="https://img.shields.io/twitter/follow/kioLmao?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"/></a>
 <img src="https://komarev.com/ghpvc/?username=ThugOG&style=for-the-badge&color=ef4444&labelColor=1c1917&label=PROFILE+VIEWS"/>
 
 </div>
@@ -25,9 +25,9 @@ name:       Sahil Thakur
 alias:      0xSahil / ThugOG
 location:   India 🇮🇳
 experience: 4 years in Web3
-focus:      DA Layers · DApps · Smart Contracts
+focus:      Smart Contracts · On-chain Systems
 learning:   Rust 🦀
-open_to:    DA Layer projects · DApp collaborations
+open_to:    Web3 collaborations · Open source
 contact:    sahilgthakur1@gmail.com
 portfolio:  https://0xsahil.live
 ```
@@ -79,7 +79,6 @@ portfolio:  https://0xsahil.live
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ThugOG&theme=dark&hide_border=true&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&background=1c1917"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ThugOG&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 
 </div>
 
@@ -90,9 +89,9 @@ portfolio:  https://0xsahil.live
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0xsahil.live-ef4444?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1c1917)](https://www.0xsahil.live)
-[![Twitter](https://img.shields.io/badge/Twitter-@0x21Sahil-ef4444?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1c1917)](https://x.com/0x21Sahil)
+[![Twitter](https://img.shields.io/badge/Twitter-@kioLmao-ef4444?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1c1917)](https://x.com/kioLmao)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil_Thakur-ef4444?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1917)](https://www.linkedin.com/in/sahil-thakur-0xthug-610353268/)
-[![Discord](https://img.shields.io/badge/Discord-nxthug-ef4444?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1917)](https://discord.com/users/nxthug)
+[![Discord](https://img.shields.io/badge/Discord-kioLmao-ef4444?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1917)](https://discord.com/users/kioLmao)
 [![Email](https://img.shields.io/badge/Email-sahilgthakur1@gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917)](mailto:sahilgthakur1@gmail.com)
 
 </div>
